@@ -4,5 +4,4 @@
 
 - Prototype implementation [GitHub repository](https://github.com/descend-lang/descend)
 
-[Bastian Köpcke](https://www.uni-muenster.de/PVS/personen/koepcke.html) - University of Münster
-[Michel Steuwer](https://michel.steuwer.info) - Technische Universität Berlin
+[Bastian Köpcke](https://www.uni-muenster.de/PVS/personen/koepcke.html) - University of Münster and [Michel Steuwer](https://michel.steuwer.info) - Technische Universität Berlin
